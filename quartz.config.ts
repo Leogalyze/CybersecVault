@@ -8,16 +8,16 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "CybersecVault",
+    pageTitleSuffix: " | Cybersecurity",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "pt-BR",
     baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private/**", "templates/**", ".obsidian/**"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -52,6 +52,7 @@ const config: QuartzConfig = {
         },
       },
     },
+    contentDir: "./content",
   },
   plugins: {
     transformers: [
