@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>CybersecVault</title>
+      <link>https://quartz.jzhao.xyz</link>
+      <description>Últimas 10 notas on CybersecVault</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Início</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description><![CDATA[ Portfólio de Cibersegurança de Leonardo Oliveira ]]></description>
+    <pubDate>Thu, 18 Sep 2025 01:47:23 GMT</pubDate>
+  </item><item>
+    <title>Redes - MOC</title>
+    <link>https://quartz.jzhao.xyz/map-of-Content-(MOC)/Redes---MOC</link>
+    <guid>https://quartz.jzhao.xyz/map-of-Content-(MOC)/Redes---MOC</guid>
+    <description><![CDATA[ Modelo OSI e TCP/IP: Modelo OSI - O que é Modelo OSI - Camadas TCP-IP - O que é OSI e TCP IP - Diferenças Protocolos de Rede: IP (v4 e v6) - Funcionamento UDP (User Datagram Protocol) - O que é TCP (Transmission Control Protocol) - O que é TCP e UDP - Diferenças ICMP (Internet Control Message Protoc... ]]></description>
+    <pubDate>Thu, 18 Sep 2025 01:47:23 GMT</pubDate>
+  </item><item>
+    <title>Analisando Configurações de Firewalls e Identificando Falhas</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Analisando-Configura%C3%A7%C3%B5es-de-Firewalls-e-Identificando-Falhas</guid>
+    <description><![CDATA[ Aprendendo a ler/configurar regras e enxergar brechas que um atacante pode explorar. ]]></description>
+    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Segmentação de Redes com VLANs e Firewalls</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Segmenta%C3%A7%C3%A3o-de-Redes-com-VLANs-e-Firewalls</guid>
+    <description><![CDATA[ Como VLANs são usadas na prática para segmentação, junto com roteadores/firewalls. ]]></description>
+    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Virtual Local Area Networks (VLANs) - O que são?</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/VLANs-(Virtual-Local-Area-Networks)---O-que-s%C3%A3o</guid>
+    <description><![CDATA[ Entendendo VLANs na teoria e como elas funcionam ]]></description>
+    <pubDate>Wed, 03 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Cálculo de Sub-redes com CIDR</title>
+    <link>https://quartz.jzhao.xyz/redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</link>
+    <guid>https://quartz.jzhao.xyz/redes/Endere%C3%A7amento-e-Sub-redes/C%C3%A1lculo-de-Sub-redes-com-CIDR</guid>
+    <description><![CDATA[ Resumo curto do que a nota aborda. ]]></description>
+    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Segmentação de Redes - O que é</title>
+    <link>https://quartz.jzhao.xyz/redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</link>
+    <guid>https://quartz.jzhao.xyz/redes/Endere%C3%A7amento-e-Sub-redes/Segmenta%C3%A7%C3%A3o-de-Redes---O-que-%C3%A9</guid>
+    <description><![CDATA[ Explicando o conceito de dividir uma rede maior em redes menores ]]></description>
+    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Firewall - O que é ?</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Firewall---O-que-%C3%A9</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Firewall---O-que-%C3%A9</guid>
+    <description><![CDATA[ Explicando o que é e como funciona os Firewalls ]]></description>
+    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Roteador - O que é ?</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Roteadores---O-que-s%C3%A3o</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Roteadores---O-que-s%C3%A3o</guid>
+    <description><![CDATA[ Resumo curto do que a nota aborda. ]]></description>
+    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
+  </item><item>
+    <title>Roteamento na Pratica - Estático e Dinâmico</title>
+    <link>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Roteamento-na-Pr%C3%A1tica---Est%C3%A1tico-e-Din%C3%A2mico</link>
+    <guid>https://quartz.jzhao.xyz/redes/Firewalls,-Switches-e-Roteadores/Roteamento-na-Pr%C3%A1tica---Est%C3%A1tico-e-Din%C3%A2mico</guid>
+    <description><![CDATA[ Exemplos práticos de roteamento e suas configurações ]]></description>
+    <pubDate>Tue, 02 Sep 2025 03:00:00 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
