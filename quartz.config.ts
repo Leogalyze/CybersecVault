@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "pt-BR",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "leogalyze.github.io/CyberSecVault",
     ignorePatterns: ["private/**", "templates/**", ".obsidian/**"],
     defaultDateType: "modified",
     theme: {
@@ -53,6 +53,9 @@ const config: QuartzConfig = {
       },
     },
     contentDir: "./content",
+  },
+  output: {
+    outputDir: "docs",
   },
   plugins: {
     transformers: [
